@@ -1,0 +1,15 @@
+{
+  "name": "humbolth",
+  "description": "ff",
+  "scripts": {
+    "postdeploy": "dfd",
+    "pr-predestroy": "fd"
+  },
+  "env": {
+    "ss": "",
+    "ff": ""
+  },
+  "addons": [
+
+  ]
+}
